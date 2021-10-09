@@ -66,9 +66,8 @@ See examples in ```qapsolvertests.cpp```.
 
 ## References
 <a id="1">[1]</a> 
-R. Kondor. A Fourier space algorithm for solving quadratic assignment problems. In SODA, 2010.
+R. Kondor. *A Fourier space algorithm for solving quadratic assignment problems*. In SODA, 2010.
 
 <a id="2">[2]</a> 
-David K. Maslen. The efficient computation of
-Fourier transforms on the symmetric group. Mathematics of Computation, 67(223):1121–1147, 1998
+David K. Maslen. *The efficient computation of Fourier transforms on the symmetric group. Mathematics of Computation*, 67(223):1121–1147, 1998
 
