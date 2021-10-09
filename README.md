@@ -6,11 +6,11 @@ The folder
 
 contains the implementation of a Fourier space algorithm for solving instances of the Quadratic Assignment Problem. The algorithm is based on the paper here:
 
-http://people.cs.uchicago.edu/~risi/papers/KondorSODA10.pdf . [[1]](#1)
+http://people.cs.uchicago.edu/~risi/papers/KondorSODA10.pdf .
 
 My implementation uses Maslen's Fast Fourier transform found in this paper: 
 
-https://www.ams.org/journals/mcom/1998-67-223/S0025-5718-98-00964-8/S0025-5718-98-00964-8.pdf . [[2]](#2)
+https://www.ams.org/journals/mcom/1998-67-223/S0025-5718-98-00964-8/S0025-5718-98-00964-8.pdf .
 
 The time complexity is a factor-of-n faster than using Clausen's FFT.
 
