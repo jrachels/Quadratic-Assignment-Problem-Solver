@@ -71,3 +71,4 @@ R. Kondor. *A Fourier space algorithm for solving quadratic assignment problems*
 <a id="2">[2]</a> 
 David K. Maslen. *The efficient computation of Fourier transforms on the symmetric group. Mathematics of Computation*, 67(223):1121–1147, 1998
 
+ 
